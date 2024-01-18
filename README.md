@@ -66,7 +66,7 @@ To enable the extension (which is a necessary step), add the file `extension.js`
 Then run the commands:
 
 ```powershell
-spicetify config extensions galaxy.js
+spicetify config extensions theme.js
 spicetify apply
 ```
 
